@@ -37,7 +37,7 @@ class _apphomeState extends State<apphome> {
 
 
 
-    String apiKey = "AIzaSyCyGclaTPoya-1lvyooUF86I9Se6QBNJIo"; // Replace with your Gemini API Key
+    String apiKey = " "; // it is private so i remove it
 
     final GenerativeModel model = GenerativeModel(
       model: 'gemini-2.0-flash',
